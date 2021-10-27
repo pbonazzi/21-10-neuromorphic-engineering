@@ -156,5 +156,7 @@ lsf.*
 ._*
 
 #3RSCAN
+Data/T3-3RScan(script)/*
+
 
 # End
